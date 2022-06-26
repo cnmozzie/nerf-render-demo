@@ -14,3 +14,7 @@ https://github.com/yenchenlin/nerf-pytorch
 ### nerf
 
 https://github.com/bmild/nerf
+
+### 原理分析
+
+https://zhuanlan.zhihu.com/p/495652881
